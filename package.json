@@ -1,0 +1,20 @@
+{
+  "name": "api_dnd_brodis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "routes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node routes.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brodis-the/api_dnd_brodis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brodis-the/api_dnd_brodis/issues"
+  },
+  "homepage": "https://github.com/brodis-the/api_dnd_brodis#readme"
+}
