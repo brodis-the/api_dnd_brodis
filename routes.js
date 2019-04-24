@@ -20,5 +20,17 @@ module.exports = function() {
     warlock: require('./json_files/class/warlock.json'),
     wizard: require('./json_files/class/wizard.json'),
 
+
+    //spells routes
+    GGR: require('./json_files/spells/spells-ggr.json'),
+	LLK: require('./json_files/spells/spells-llk.json'),
+	PHB: require('./json_files/spells/spells-phb.json'),
+	SCAG: require('./json_files/spells/spells-scag.json'),
+	Stream: require('./json_files/spells/spells-stream.json'),
+	UAArtificerRevisited: require('./json_files/spells/spells-ua-ar.json'),
+	UAModernMagic: require('./json_files/spells/spells-ua-mm.json'),
+	UAStarterSpells: require('./json_files/spells/spells-ua-ss.json'),
+	UAThatOldBlackMagic: require('./json_files/spells/spells-ua-tobm.json'),
+	XGE: require('./json_files/spells/spells-xge.json'),
     }
 }   
